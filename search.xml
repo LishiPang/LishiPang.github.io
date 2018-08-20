@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[我的第二篇文章]]></title>
+    <url>%2F2018%2F08%2F20%2F1%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
     <title><![CDATA[我的第一篇文章:hello from LishiPang]]></title>
     <url>%2F2018%2F08%2F20%2F%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%2F</url>
     <content type="text"></content>
   </entry>
   <entry>
-    <title><![CDATA[Hello World]]></title>
+    <title><![CDATA[There must be someone who lives the life you want to live]]></title>
     <url>%2F2018%2F08%2F20%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <content type="text"><![CDATA[Welcome to lilithpang! This is my first time try to open the blog. If you get any questions on how to built a website of blog when using Hexo, you can find the answer in troubleshooting or you can ask me on Github 文章目录1.哎呀这是第一个选项1哎呀胡胡你今天为神墨这么好看呢 胡胡图片请点击: Writing 2.哎呀这是第二个1I don't know how to create the other themes.. More info: Server 3.Generate static files1This is another themes google link: Generating 4.Deploy to remote sites1print "hello world" More info: Deployment]]></content>
   </entry>
 </search>
